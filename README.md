@@ -2,7 +2,7 @@
 Data Analytics Tools - Python Script
 
 ## Short Description
-This repository contains Python code demonstrating various techniques for encoding categorical features to numeric quantities in the context of data analytics. The code includes examples of replacing values and performing one-hot encoding on a dataset.
+This repository contains Python code demonstrating various techniques for encoding categorical features to numeric quantities in the context of data analytics. The code includes examples of replacing values, label encoding, and performing one-hot encoding on a dataset.
 
 ## Getting Started
 To get started with the code, simply clone this repository to your local machine.
@@ -21,16 +21,17 @@ Run the Python script provided in the repository to see examples of encoding tec
 
 ## Breakdown of Tests
 - **Replacing Values**: Demonstrates how to replace categorical values with numeric quantities using Pandas.
-- **One-Hot Encoding**: Shows how to perform one-hot encoding on categorical variables.
+- **Label Encoding**: Shows how to perform label encoding on categorical variables.
+- **One-Hot Encoding**: Demonstrates one-hot encoding technique on categorical variables.
 
 ## Deployment
 The code provided can be integrated into larger data analytics projects or used for educational purposes.
 
 ## Author
-[James Masih]
+James Masih
 
 ## License
-This project is only for educational purpose.
+This project is only for educational purposes.
 
 ## Acknowledgement
-[Omar Al-trad]
+professor Omar Al-Trad
