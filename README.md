@@ -1,5 +1,5 @@
 # Project Title
-Differnet techniques to encode
+Differnet techniques for encoding
 
 ## Short Description
 This repository contains Python code demonstrating various techniques for encoding categorical features to numeric quantities in the context of data analytics. The code includes examples of replacing values, label encoding, and performing one-hot encoding on a dataset.
