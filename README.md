@@ -34,4 +34,4 @@ James Masih
 This project is only for educational purposes.
 
 ## Acknowledgement
-professor Omar Al-Trad
+Professor Omar Al-Trad
